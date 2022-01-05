@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+#page-top{
+	background-color: #e4ebf1;
+}
+h1,h2,h3,h4,h5,h6,p,a{
+	color: #5B6C79;
+	
+}
+.text-s{
+	color: rgba(59,71,80,1.00);
+}
+.bgr{
+	background-color: rgba(110,127,141,1.00);
+	width: 100%;
+}
+.btn-1{
+	padding: 10px 30px;
+	text-decoration: none;
+}
+.align-self-baseline a:hover{
+	text-decoration: none;
+	background-color: #f4623a;
+	transition: 0.5s;
+	color: #fff;
+}
+.btn-outline{
+	font-weight: 600;
+/*	background: #6c63ff;*/
+	border: 1px solid #f4623a;
+	color: rgba(57,69,79,1.00);
+	border-radius: 20px;
+	
+}
+.btn-outline-w{
+/*	background: #6c63ff;*/
+	border: 1px solid #f4623a;
+	color: #FFFFFF;
+	border-radius: 20px;
+	font-weight: 600;
+	
+}
+.btn-BGR{
+	background: #6c63ff;
+/*	border: 1px solid #ffffff;*/
+	color: aliceblue;
+	color: rgba(22,27,29,1.00)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
